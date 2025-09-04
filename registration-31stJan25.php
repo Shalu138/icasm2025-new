@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="ICASM 2025 - International Congress of Aviation and Space Medicine |
+    Singapore" />
+    <meta name="keywords" content="ICASM 2025, International Congress of Aviation and Space Medicine, Aviation and Space Medicine" />
+    <link rel="canonical" href="https://icasm2025.com/sponsor-and-exhibition.php">
+    <title>
+        Registration | ICASM 2025 - International Congress of Aviation and Space Medicine |
+        Singapore
+    </title>
+    <meta property="og:title" content="ICASM 2025 - 71st International Congress of Aviation and Space Medicine | Singapore">
+    <meta property="og:url" content="https://icasm2025.com/sponsor-and-exhibition.php">
+    <meta property="og:description" content="ICASM 2025 in Singapore aims to unite the international community of aviation and space medicine professionals, scientists, researchers, and practitioners in collectively bringing aviation and space medicine to greater heights through professional exchanges and closer collaborations." />
+    <meta property="og:image" content="https://icasm2025.com/assets/img/logo/favicon.png" />
+
+
+    <?php
+    include('header.php');
+    ?>
+
+    <main class="main">
+        <div class="site-breadcrumb">
+            <div
+                class="site-breadcrumb-wrapper breadcrumb-shape"
+                style="background-image: url(assets/img/about/about-us-banner.jpg)">
+                <div class="container">
+                    <h2 class="breadcrumb-title">Registration</h2>
+                    <ul class="breadcrumb-menu">
+                        <li>
+                            <a href="index.php"><i class="far fa-home"></i> Home</a>
+                        </li>
+                        <li class="active"><b>Register Now</b></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="site-breadcrumb-shape"></div>
+        </div>
+
+        <section class="registration-table pt-80 pb-80">
+            <div class="container">
+                <div class="col-md-9 mx-auto">
+                    <div class="custom-table">
+                        <div class="table-responsive">
+                            <table class="table mb-0">
+                                <thead>
+                                    <tr>
+                                        <th>Category</th>
+                                        <th>Early Bird Registration <br />
+                                            (February 1 to July 31, 2025)</th>
+                                        <th>Standard Registration <br />
+                                            (August 1 to October 26, 2025)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Full Registration</td>
+                                        <td>SGD 950 </td>
+                                        <td>SGD 1050</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Single Day Registration</td>
+                                        <td>SGD 400</td>
+                                        <td>SGD 400</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Two Days Registration</td>
+                                        <td>SGD 800</td>
+                                        <td>SGD 800</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Accompanying Person Registration</td>
+                                        <td>SGD 200</td>
+                                        <td>SGD 200</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="registration-policy faq-area bg-element-section pb-80 position-relative">
+        <img src="assets/img/element2.png" alt="element" class="element2">
+        <img src="assets/img/element3.png" alt="element" class="element3">
+            <div class="container">
+                <div class="site-heading text-center">
+                    <h2 class="site-title">
+                        <span class="me-2 d-md-inline-block d-none left-icon">
+                            <i class="icon-title"></i>
+                        </span>
+                        Registration <span> Policy</span>
+                        <span class="ms-2 d-md-inline-block d-none right-icon"
+                            data-aos="fade-right" data-aos-offset="0" data-aos-duration="1200">
+                            <i class="icon-benefits-of-training"></i>
+                        </span>
+                    </h2>
+                </div>
+
+                <div class="col-md-9 mx-auto">
+                    <div class="accordion accordion-flush" id="registrationAccordion">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button
+                                    class="accordion-button"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#register-collapseOne"
+                                    aria-expanded="true"
+                                    aria-controls="register-collapseOne">
+                                    Delegate Registration Policy
+                                </button>
+                            </h2>
+                            <div
+                                id="register-collapseOne"
+                                class="accordion-collapse collapse show"
+                                data-bs-parent="#registrationAccordion"
+                                style="">
+                                <div class="accordion-body">
+                                    <ul>
+                                        <li><i class="fa-solid fa-plane"></i> 
+                                            <p>Early bird rates are available until <b>July 31th, 2025</b>.
+                                            After this date, <b>regular registration fees</b> will apply.</p>
+                                        </li>
+                                        <li> <i class="fa-solid fa-plane"></i>
+                                            <p>Delegates who do not wish to attend the full conference may
+                                            register for a <b>One Day</b> or <b>Two Days</b> only. Please select the
+                                            appropriate option during registration.</p>
+                                        </li>
+                                        <li><i class="fa-solid fa-plane"></i> 
+                                            <p>Upon successful registration, attendees will receive an <b>email
+                                                confirmation</b> containing their registration details and a <b>unique
+                                                attendee ID</b>. Please bring this confirmation (printed or digital)
+                                            to the registration desk at the event.</p>
+                                        </li>
+                                        <li><i class="fa-solid fa-plane"></i>
+                                            <p>If a registration is found to be in violation of the
+                                            registration guidelines, the <b>organizers reserve the right</b> to
+                                            reject the registration or move it to a different category.</p>
+                                        </li>
+                                        <li><i class="fa-solid fa-plane"></i>
+                                            <p>The applicable registration fee slab will be based on the <b>date
+                                            that funds are credited</b> to the conference account.</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button
+                                    class="accordion-button collapsed"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#register-collapseTwo"
+                                    aria-expanded="false"
+                                    aria-controls="register-collapseTwo">
+                                    Accompanying Person Registration Policy
+                                </button>
+                            </h2>
+                            <div
+                                id="register-collapseTwo"
+                                class="accordion-collapse collapse"
+                                data-bs-parent="#registrationAccordion">
+                                <div class="accordion-body">
+                                    <ul>
+                                        <li><i class="fa-solid fa-plane"></i>
+                                            <p>The registration fee for accompanying persons is <b>SGD 200</b>.</p>
+                                        </li>
+                                        <li><i class="fa-solid fa-plane"></i>
+                                            <p>Accompanying persons are not required to register to enter the conference premises.</p>
+                                        </li>
+                                        <li><i class="fa-solid fa-plane"></i>
+                                            <p>Registration is mandatory for attending the <b>Opening Reception</b>, <b>Gala Dinner</b>, and <b>other social events</b>.</p>
+                                        </li>
+                                        <li><i class="fa-solid fa-plane"></i>
+                                            <p>Accompanying persons wishing to attend the scientific conference program must be registered as a Delegate.</p>
+                                        </li>
+                                        <li><i class="fa-solid fa-plane"></i>
+                                            <p>To register an accompanying person, the delegate must be registered under the <b>full registration category</b>.</p>
+                                        </li>
+                                        <li><i class="fa-solid fa-plane"></i>
+                                            <p>Delegates registering for a <b>single day</b> or <b>two-day</b> attendance are not eligible to bring accompanying persons.</p>
+                                        </li>
+                                        <li><i class="fa-solid fa-plane"></i>
+                                            <p>A delegate may bring <b>only one accompanying person</b>.</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </main>
+<style>
+    /* .footer-area{
+        background-color: #f5f5f5;
+    } */
+</style>
+
+    <?php
+    include('footer.php');
+    ?>
