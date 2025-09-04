@@ -1,4 +1,3 @@
-i
 
   <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png" />
 
@@ -13,12 +12,7 @@ i
 </head>
 
 <body>
-  <div class="preloader">
-    <div class="loader">
-      <div class="loader-box-1"></div>
-      <div class="loader-box-2"></div>
-    </div>
-  </div>
+
 
   <header class="header">
     <div class="main-navigation">
@@ -64,41 +58,9 @@ i
                     <a class="dropdown-item" href="book-accommodation.php">
                       Book Accommodation</a>
                   </li>
-                  <li>
-                    <a class="dropdown-item" href="general-information.php">
-                      General Information</a>
-                  </li>
-                  <li class="dropdown sub-dropdown">
-                    <a class="dropdown-item" href="enjoy-singapore.php">
-                      Enjoy Singapore</a>
-
-                    <ul class="dropdown-menu fade-up sub-dropdown-menu">
-                      <li>
-                        <a class="dropdown-item" href="singapore-on-arrival.php">
-                          On Arrival</a>
-                      </li>
-                      <li>
-                        <a class="dropdown-item" href="singapore-around-the-area.php">
-                          Around the Area</a>
-                      </li>
-                      <li>
-                        <a class="dropdown-item" href="historic-and-cultural-areas.php">
-                         Historic and Cultural Areas</a>
-                      </li>
-                      <li>
-                        <a class="dropdown-item" href="singapore-attractions.php">
-                          Attractions</a>
-                      </li>
-                      <li>
-                        <a class="dropdown-item" href="singapore-food.php">
-                        Food</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="technical-visits.php">
-                      Technical Visits</a>
-                  </li>
+                 
+              
+                  
                   <li>
                     <a class="dropdown-item" href="how-to-reach-venue.php">
                       How to Reach Venue</a>
@@ -109,33 +71,98 @@ i
                 <a
                   class="nav-link dropdown-toggle"
                   href="javascript:void(0)"
-                  data-bs-toggle="dropdown">Scientific Programme</a>
+                  data-bs-toggle="dropdown"> Programme</a>
                 <ul class="dropdown-menu fade-up">
                   <li>
                     <a class="dropdown-item" href="programme.php">
-                      Programme</a>
+                      Scientific Programme</a>
                   </li>
                    <li>
                     <a class="dropdown-item" href="lecture.php">
-                    Andre Allard Memorial<br> Lecture</a>
+                    André Allard Memorial<br> Lecture</a>
                   </li>
-                  
                   <li>
                     <a class="dropdown-item" href="plenary-lecture.php">
-                    Plenary Lecture</a>
+                    ICASM 2025 Plenary Lecture</a>
                   </li>
                   <li>
                     <a class="dropdown-item" href="isos-symposium.php">
-                      Sponsored Symposium - International SOS
+                      Sponsored Symposium - <br />International SOS
                     </a>
                   </li>
-                  <li>
+                   <li>
                       <a class="dropdown-item" href="virgin-galactic-ame-workshop.php">
                       Virgin Galactic AME Workshop
                     </a>
                   </li>
+                  <li>
+                    <a class="dropdown-item" href="etc-symposium.php">
+                      Sponsored Symposium  - <br />ETC
+                    </a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="jfj-symposium.php">
+                      Sponsored Symposium -  <br />JFJ GmbH
+                    </a>
+                  </li>
+                  
+                 
+                  <li>
+                    <a class="dropdown-item" href="technical-visits.php">
+                      Technical Visits</a>
+                  </li>
                 </ul>
               </li>
+              
+              
+                  <!--<li class="dropdown sub-dropdown">-->
+                  <!--  <a class="dropdown-item" href="enjoy-singapore.php">-->
+                  <!--    Enjoy Singapore</a>-->
+
+                  <!--  <ul class="dropdown-menu fade-up sub-dropdown-menu">-->
+                  <!--    <li>-->
+                  <!--      <a class="dropdown-item" href="singapore-on-arrival.php">-->
+                  <!--        On Arrival</a>-->
+                  <!--    </li>-->
+                  <!--    <li>-->
+                  <!--      <a class="dropdown-item" href="singapore-around-the-area.php">-->
+                  <!--        Around the Area</a>-->
+                  <!--    </li>-->
+                  <!--    <li>-->
+                  <!--      <a class="dropdown-item" href="historic-and-cultural-areas.php">-->
+                  <!--       Historic and Cultural Areas</a>-->
+                  <!--    </li>-->
+                  <!--    <li>-->
+                  <!--      <a class="dropdown-item" href="singapore-attractions.php">-->
+                  <!--        Attractions</a>-->
+                  <!--    </li>-->
+                  <!--    <li>-->
+                  <!--      <a class="dropdown-item" href="singapore-food.php">-->
+                  <!--      Food</a>-->
+                  <!--    </li>-->
+                  <!--  </ul>-->
+                  <!--</li>-->
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle"
+                  href="javascript:void(0)"
+                  data-bs-toggle="dropdown"> Visit Singapore</a>
+                <ul class="dropdown-menu fade-up">
+                    <li>
+                    <a class="dropdown-item" href="general-information.php">
+                      General Information</a>
+                  </li>
+                   <li>
+                        <a class="dropdown-item" href="enjoy-singapore.php">
+                          Enjoy Singapore</a>
+                      </li>
+                       
+                      
+                  </ul>
+                 </li>
+                 
+                 
+                 
               <li class="nav-item dropdown">
                 <a
                   class="nav-link dropdown-toggle"
@@ -156,22 +183,22 @@ i
                 <a class="nav-link" href="sponsorship-opportunities.php">Sponsorship Opportunities</a>
               </li>
               
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle"
-                  href="javascript:void(0)"
-                  data-bs-toggle="dropdown">Travel</a>
-                <ul class="dropdown-menu fade-up">
-                  <li>
-                    <a class="dropdown-item" href="airport-transfer.php">
-                    Airport Transfers</a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="javascript:void(0)">
-                    Singapore Tours</a>
-                  </li>
-                </ul>
-              </li>
+              <!--<li class="nav-item dropdown">-->
+              <!--  <a-->
+              <!--    class="nav-link dropdown-toggle"-->
+              <!--    href="javascript:void(0)"-->
+              <!--    data-bs-toggle="dropdown">Travel</a>-->
+              <!--  <ul class="dropdown-menu fade-up">-->
+              <!--    <li>-->
+              <!--      <a class="dropdown-item" href="airport-transfer.php">-->
+              <!--      Airport Transfers</a>-->
+              <!--    </li>-->
+              <!--    <li>-->
+              <!--      <a class="dropdown-item" href="javascript:void(0)">-->
+              <!--      Singapore Tours</a>-->
+              <!--    </li>-->
+              <!--  </ul>-->
+              <!--</li>-->
               
               <li class="nav-item">
                 <a class="nav-link" href="contact.php">Contact Us</a>

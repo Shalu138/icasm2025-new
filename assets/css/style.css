@@ -865,6 +865,7 @@ nav menu css
 
   .navbar .nav-item .dropdown-menu .dropdown-item {
     font-size: 15px;
+    line-height: 1.5;
     font-weight: 600;
     padding: 8px 15px;
     color: #182333;
@@ -6416,7 +6417,8 @@ home 3
 }
 
 .abstract-list .nav-pills .nav-link {
-  width: 33.33%;
+  /* width: 33.33%; */
+  width: 25%;
   z-index: 1;
   background: transparent;
   color: var(--secondary-color);
@@ -6440,7 +6442,8 @@ home 3
 }
 
 .nav-tab-slider .slider {
-  width: 33.3%;
+  /* width: 33.3%; */
+  width: 25%;
   height: 100%;
   background-color: var(--secondary-color);
   border-radius: 8px;
@@ -6460,6 +6463,7 @@ home 3
   text-align: center;
   padding: 10px;
   font-family: "Poppins", sans-serif;
+  line-height: 1.6;
 }
 
 .abstract-list .table > tbody > tr > td,
@@ -6597,7 +6601,7 @@ home 3
   content: "";
 }
 .abstract-list-2 .table > tbody > tr > .top-spacing {
-  padding-top: 365px;
+  padding-top: 493px;
   border: none;
 }
 /* ************* Responsive Media Queries ************ */
