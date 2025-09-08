@@ -107,12 +107,13 @@
                                                     <tr>
                                                         <td>10:30</td>
                                                         <td>André Allard Memorial Lecture <br />
-                                                            (Defining the Future of Global Systems Governing Health and Wellbeing of Populations: Amidst the Revolution in Aviation and Space Travel)</td>
+                                                            [Defining the Future of Global Systems Governing Health and Wellbeing of Populations:
+                                                            Amidst the Revolution in Aviation and Space Travel]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>11:30</td>
                                                         <td>Ernsting Panel<br />
-                                                            (New Paradigms and Approaches in Aviation Mental Health)</td>
+                                                            [New Paradigms and Approaches in Aviation Mental Health]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>13:00</td>
@@ -126,12 +127,13 @@
                                                             </div>
                                                         </td>
                                                         <td>Plenary Lecture <br />
-                                                            (Infectious Disease Pandemics - A Future Crisis or Captivating Opportunities for Aviation Medicine?)</td>
+                                                            [Infectious Disease Pandemics - A Future Crisis or Captivating Opportunities for
+                                                            Aviation Medicine?]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>14:45</td>
                                                         <td>Session 1A <br />
-                                                            (Infectious Disease and Air Travel)</td>
+                                                            [Infectious Disease and Air Travel]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>15:30</td>
@@ -144,12 +146,12 @@
                                                             </div>
                                                         </td>
                                                         <td>International SOS Sponsored Session <br />
-                                                            (Innovation in the Handling of In-flight Medical Events and Aeromedical Transportation)</td>
+                                                            [Innovation in the Handling of In-flight Medical Events and Aeromedical Transportation]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>17:00</td>
                                                         <td>Session 2A <br />
-                                                            (Aeromedical Transportation)</td>
+                                                            [Aeromedical Transportation]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>18:00</td>
@@ -157,9 +159,15 @@
                                                     </tr>
                                                     <tr>
                                                         <td>19:00</td>
-                                                        <td>Conference Reception <br />
-                                                            (Dress Code: Lounge Attire) <br />
-                                                            (Venue: Saranggong Terrase)</td>
+                                                        <td>
+                                                            <!--Conference Reception <br />-->
+                                                            <!--(Dress Code: Lounge Attire) <br />-->
+                                                            <!--(Venue: Saranggong Terrase)-->
+
+                                                            Conference Reception <br />
+                                                            Venue: <i>Saranggong Terrase</i> <br />
+                                                            (Dress Code: Lounge Attire)
+                                                        </td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -194,7 +202,7 @@
                                                     <tr>
                                                         <td>14:45</td>
                                                         <td>Session 1B <br />
-                                                            (Space 1)</td>
+                                                            [Space 1]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>15:30</td>
@@ -207,7 +215,7 @@
                                                             </div>
                                                         </td>
                                                         <td style="height: 97.5px;">Session 2B <br />
-                                                            (Space 2)</td>
+                                                            [Space 2]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>18:00</td>
@@ -244,7 +252,7 @@
                                                     <tr>
                                                         <td>08:30</td>
                                                         <td style="height:97.5px">Session 3<br />
-                                                            (Aviation Cardiology)</td>
+                                                            [Aviation Cardiology]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>10:00</td>
@@ -254,7 +262,7 @@
                                                     <tr>
                                                         <td>10:30</td>
                                                         <td style="height:97.5px">Session 4<br />
-                                                            (Women in Aviation)</td>
+                                                            [Women in Aviation]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>11:15</td>
@@ -275,7 +283,7 @@
                                                             13:00
                                                         </td>
                                                         <td style="height:97.5px">Session 5<br />
-                                                            (Civil Aviation Medicine & Regulatory Medicine)</td>
+                                                            [Civil Aviation Medicine & Regulatory Medicine]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>15:00</td>
@@ -284,7 +292,7 @@
                                                     <tr>
                                                         <td>15:30</td>
                                                         <td>Session 6A<br />
-                                                            (Military Aviation Medicine)</td>
+                                                            [Military Aviation Medicine]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>
@@ -294,10 +302,17 @@
                                                     </tr>
                                                     <tr>
                                                         <td>19:00</td>
-                                                        <td><i>For Academicians' Only </i> <br />
-                                                            IAASM Academicians' Dinner <br />
-                                                            (Dress Code: Black Tie Attire)<br />
-                                                            (Meet-Up Timing: 1900H at One Farrer Hotel Lobby)
+                                                        <td>
+                                                            <!--<i>For Academicians' Only </i> <br />-->
+                                                            <!--IAASM Academicians' Dinner <br />-->
+                                                            <!--(Dress Code: Black Tie Attire)<br />-->
+                                                            <!--(Meet-Up Timing: 1900H at One Farrer Hotel Lobby)-->
+
+
+                                                            <i style="color:var(--secondary-color);font-weight:500;">For Academicians Only </i> <br />
+                                                            IAASM Academicians Dinner <br />
+                                                            <i>Meet-Up Timing: 1900H at One Farrer Hotel Lobby</i> <br />
+                                                            (Dress Code: Black Tie Attire)
                                                         </td>
                                                     </tr>
 
@@ -326,7 +341,7 @@
                                                     <tr>
                                                         <td>08:30</td>
                                                         <td>Virgin Galactic AME Workshop<br />
-                                                            (Session 1: Introduction to the Virgin Galactic future astronaut medical screening process)</td>
+                                                            [Session 1: Introduction to the Virgin Galactic future astronaut medical screening process]</td>
                                                     </tr>
                                                     <!--<tr>-->
                                                     <!--    <td>09:15</td>-->
@@ -335,7 +350,7 @@
                                                     <tr>
                                                         <td>09:30</td>
                                                         <td>Virgin Galactic AME Workshop<br />
-                                                            (Session 2: Virgin Galactic AME registration, profile creation and legal documents)</td>
+                                                            [Session 2: Virgin Galactic AME registration, profile creation and legal documents]</td>
                                                     </tr>
                                                     <!--<tr>-->
                                                     <!--    <td>10:15</td>-->
@@ -344,7 +359,7 @@
                                                     <tr>
                                                         <td>10:30</td>
                                                         <td>Virgin Galactic AME Workshop<br />
-                                                            (Session 3: Conducting and documenting a Virgin Galactic flight physical)</td>
+                                                            [Session 3: Conducting and documenting a Virgin Galactic flight physical]</td>
                                                     </tr>
                                                     <!-- <tr>
                                                         <td>11:15</td>
@@ -360,12 +375,12 @@
                                                     <tr>
                                                         <td>13:00</td>
                                                         <td>JFJ Sponsored Session<br />
-                                                            (The Future of Aerospace Medicine Training: What's the next Game Changer?)</td>
+                                                            [The Future of Aerospace Medicine Training: What's the next Game Changer?]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>14:00</td>
                                                         <td>ETC Sponsored Session<br />
-                                                            (Trends in Aviation Medicine and Training: A Critical Review of Human Factors in Recent Mishaps)</td>
+                                                            [Trends in Aviation Medicine and Training: A Critical Review of Human Factors in Recent Mishaps]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>
@@ -376,7 +391,7 @@
                                                     <tr>
                                                         <td>15:30</td>
                                                         <td>Session 6B<br />
-                                                            (Aviation Psychology and Training)</td>
+                                                            [Aviation Psychology and Training]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>17:30</td>
@@ -412,7 +427,7 @@
                                                     <tr>
                                                         <td>08:30</td>
                                                         <td>Session 7A<br />
-                                                            (Human Factors, Survivability & Accident Investigation)</td>
+                                                            [Human Factors, Survivability & Accident Investigation]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>10:00</td>
@@ -422,7 +437,7 @@
                                                     <tr>
                                                         <td>10:30</td>
                                                         <td>Session 8A<br />
-                                                            (High Performance Aviation & Acceleration)</td>
+                                                            [High Performance Aviation & Acceleration]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>12:00</td>
@@ -432,7 +447,7 @@
                                                     <tr>
                                                         <td>13:00</td>
                                                         <td>Session 9A<br />
-                                                            (Space 3)</td>
+                                                            [Space 3]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>14:30</td>
@@ -443,7 +458,7 @@
                                                             15:00
                                                         </td>
                                                         <td>Session 10A<br />
-                                                            (Clinical Aviation 2)</td>
+                                                            [Clinical Aviation 2]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>16:00</td>
@@ -451,12 +466,15 @@
                                                     </tr>
                                                     <tr>
                                                         <td>19:00</td>
-                                                        <td>Congress Gala Dinner <br />
-                                                            (Dress Code: Formal or National Attire) <br />
-                                                            (Venue: One Farrer Hotel Grand Ballroom)</td>
+                                                        <td>
+                                                            <!--Congress Gala Dinner <br />-->
+                                                            <!--(Dress Code: Formal or National Attire) <br />-->
+                                                            <!--(Venue: One Farrer Hotel Grand Ballroom)-->
 
-
-
+                                                            Congress Gala Dinner <br />
+                                                            Venue: <i>One Farrer Hotel Grand Ballroom</i> <br />
+                                                            (Dress Code: Formal or National Attire)
+                                                        </td>
                                                     </tr>
 
                                                 </tbody>
@@ -484,7 +502,7 @@
                                                     <tr>
                                                         <td>08:30</td>
                                                         <td>Session 7B<br />
-                                                            (Aviation Psychiatry and Mental Health)</td>
+                                                            [Aviation Psychiatry and Mental Health]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>10:00</td>
@@ -493,7 +511,7 @@
                                                     <tr>
                                                         <td>10:30</td>
                                                         <td>Session 8B<br />
-                                                            (Aviation Ophthalmology)</td>
+                                                            [Aviation Ophthalmology]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>12:00</td>
@@ -503,7 +521,7 @@
                                                     <tr>
                                                         <td>13:00</td>
                                                         <td>Session 9B<br />
-                                                            (Clinical Aviation 1)</td>
+                                                            [Clinical Aviation 1]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>14:30</td>
@@ -514,20 +532,18 @@
                                                             15:00
                                                         </td>
                                                         <td>Session 10B<br />
-                                                            (Altitude Psychology and Hypoxia)</td>
+                                                            [Altitude Psychology and Hypoxia]</td>
                                                     </tr>
                                                     <tr>
                                                         <td>16:00</td>
                                                         <td>
-                                                            <i>For Academicians' Only</i> <br />
+                                                            <i style="color:var(--secondary-color);font-weight:500;">For Academicians Only</i> <br />
                                                             IAASM General Meeting
+
+
                                                         </td>
                                                     </tr>
-                                                    <!-- <tr>
-                                                        <td>19:00</td>
-                                                        <td>Congress Gala Dinner <br />
-                                                            (Dress Code: Formal or National Attire)</td>
-                                                    </tr> -->
+
 
                                                 </tbody>
                                             </table>
@@ -555,7 +571,7 @@
                                                     <tr>
                                                         <th>S No.</th>
                                                         <th>Visit Location</th>
-                                                        <th>Meet-Up Timing</th>
+                                                        <th>Meet-Up Timing at Hotel Lobby</th>
                                                         <th>Estimated Duration</th>
                                                         <th>Capacity</th>
                                                     </tr>
