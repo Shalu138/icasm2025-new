@@ -33,9 +33,9 @@
                         <li>
                             <a href="index.php"><i class="far fa-home"></i> Home</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="enjoy-singapore.php">Enjoy Singapore</a>
-                        </li>
+                        </li> -->
                         <li class="active"><b>On Arrival</b></li>
                     </ul>
                 </div>
@@ -46,13 +46,21 @@
         <section class="enjoy-singapore section-padding">
             <div class="container">
                 <div class="about-changi text-center col-md-9 mx-auto">
-                    <p>Changi Airport is a world class airport comprising 4 terminals, Jewel Changi Airport, hotels, shopping and dining, as well as numerous attractions. For more information, visit: <a href="https://changiairport.com/" target="_blank">https://changiairport.com/</a></p>
-                    <p>For more information regarding arrivals in Singapore, <br class="d-md-block d-none" />visit:
+                    <p>For more information regarding departure in Singapore, <br class="d-md-block d-none" />visit: <a href="https://www.changiairport.com/en/fly/departure-guide.html" target="_blank">https://www.changiairport.com/en/fly/departure-guide.html</a> </p>
+
+                    <p>In order to reach One Farrer Hotel, the fastest way to travel is via taxi or private hire. For more information, please click here: <a href="https://www.changiairport.com/en/at-changi/transport-and-directions/leaving-the-airport.html" target="_blank">https://www.changiairport.com/en/at-changi/transport-and-directions/leaving-the-airport.html</a></p>
+
+                        <p>For more information regarding arrivals in Singapore, <br class="d-md-block d-none" />visit:
                         <a href="https://www.changiairport.com/en/fly/arrival-guide.html" target="_blank">https://www.changiairport.com/en/fly/arrival-guide.html</a>
                     </p>
+
+
+
+                    <p>Changi Airport is a world class airport comprising 4 terminals, Jewel Changi Airport, hotels, shopping and dining, as well as numerous attractions. For more information, visit: <a href="https://www.sg60.gov.sg/deals-and-discounts/" target="_blank">https://www.sg60.gov.sg/deals-and-discounts/</a></p>
+                   
                     <p>Do remember to fill up the SG Arrival Card (SGAC) before being allowed entry into Singapore: <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card" target="_blank">https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card</a> </p>
 
-                    <p>For more information regarding departure in Singapore, <br class="d-md-block d-none" />visit: <a href="https://www.changiairport.com/en/fly/departure-guide.html" target="_blank">https://www.changiairport.com/en/fly/departure-guide.html</a> </p>
+                    
                 </div>
             </div>
 

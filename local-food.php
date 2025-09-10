@@ -125,6 +125,30 @@ include('header.php');
                             </div>
                         </div>
                     </div>
+
+                    <div class="col-md-6">
+                        <div class="tour-detail left">
+                            <div class="img-container">
+                                <img src="assets/img/singapore/food-and-drinks/local-food/hainanese-chicken-rice.jpg" alt="Hainanese Chicken Rice">
+                            </div>
+                            <div class="content">
+                                <h2 class="heading3">Hainanese Chicken Rice</h2>
+                                <p>Hainanese chicken rice is a dish of poached chicken and seasoned rice, served with chilli sauce and usually with cucumber garnishes. It was created by immigrants from Hainan in southern China and adapted from the Hainanese dishes of Wenchang chicken and Wenchang chicken rice.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="tour-detail left">
+                            <div class="img-container">
+                                <img src="assets/img/singapore/food-and-drinks/local-food/satay.jpg" alt="Satay">
+                            </div>
+                            <div class="content">
+                                <h2 class="heading3">Satay</h2>
+                                <p>Satay is a popular local street food in Singapore, consisting of seasoned, skewered, and grilled meat served with a sweet and savory peanut sauce. While its origins are in Indonesia, Singapore has its own take on the dish, featuring chicken, beef, and mutton, and sometimes including elements like pineapple in the sauce. Singaporean satay is enjoyed at hawker centers, such as Lau Pa Sat, and is often accompanied by cucumber, onion, and ketupat (rice cakes).</p>
+                            </div>
+                        </div>
+                    </div>
                     
                 </div>
             </div>
